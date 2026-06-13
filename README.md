@@ -33,8 +33,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankith2409-web&show_icons=true&theme=radical" alt="Ankith's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankith2409-web&theme=radical" alt="Ankith's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankith2409-web&show_icons=true&theme=radical&include_all_commits=true" alt="Ankith's GitHub Stats" />
 </div>
